@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-15",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##HIT",
+    "SMASH",
+    "CABLE",
+    "ALIEN",
+    "NET##"
+   ],
+   "numOnly": [
+    "HABIT",
+    "SCAN",
+    "CABLE",
+    "NET"
+   ],
+   "clues": {
+    "HIT": "Strike",
+    "ISLE": "Small island",
+    "THEN": "At that time",
+    "SMASH": "Break into pieces",
+    "MALE": "Opposite of female",
+    "ALIEN": "Visitor from space"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "AGE##",
+    "ROLL#",
+    "CABIN",
+    "#LOVE",
+    "##WET"
+   ],
+   "numOnly": [
+    "AGE",
+    "GOAL",
+    "LIVE",
+    "LOVE",
+    "WET"
+   ],
+   "clues": {
+    "ARC": "Curved line",
+    "ELBOW": "Arm joint",
+    "ROLL": "Bread piece",
+    "CABIN": "Small woodland house",
+    "NET": "Tennis court divider"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 8,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##LED",
+    "#DOVE",
+    "BEGIN",
+    "RAIL#",
+    "ARC##"
+   ],
+   "numOnly": [
+    "LED",
+    "LOGIC",
+    "DEN",
+    "DOVE",
+    "DEAR"
+   ],
+   "clues": {
+    "EVIL": "Wicked",
+    "BEGIN": "Start",
+    "BRA": "Undergarment",
+    "RAIL": "Train track",
+    "ARC": "Curved line"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 7,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##PIT",
+    "#LANE",
+    "TASTE",
+    "ONTO#",
+    "ODE##"
+   ],
+   "numOnly": [
+    "LAND",
+    "TASTE",
+    "TOO",
+    "ONTO",
+    "ODE"
+   ],
+   "clues": {
+    "PIT": "Hole in the ground",
+    "PASTE": "Sticky mixture",
+    "INTO": "Toward the inside of",
+    "TEE": "Golf peg",
+    "LANE": "Narrow road"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 11,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-13",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##WEB",
+    "STOLE",
+    "HOUSE",
+    "OWNER",
+    "END##"
+   ],
+   "numOnly": [
+    "WEB",
+    "WOUND",
+    "BEER",
+    "END"
+   ],
+   "clues": {
+    "ELSE": "Otherwise",
+    "STOLE": "Took illegally",
+    "SHOE": "Footwear",
+    "TOWN": "Small city",
+    "HOUSE": "Home",
+    "OWNER": "Possessor"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "RID##",
+    "EDEN#",
+    "FOCAL",
+    "#LAME",
+    "##YET"
+   ],
+   "numOnly": [
+    "RID",
+    "REF",
+    "FOCAL",
+    "LET",
+    "YET"
+   ],
+   "clues": {
+    "IDOL": "Object of worship",
+    "DECAY": "Rot",
+    "EDEN": "Biblical garden",
+    "NAME": "Title",
+    "LAME": "Unimpressive"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##BEG",
+    "BRAVO",
+    "EATEN",
+    "SCORE",
+    "TEN##"
+   ],
+   "numOnly": [
+    "BEG",
+    "EVER",
+    "GONE",
+    "RACE",
+    "SCORE"
+   ],
+   "clues": {
+    "BATON": "Conductor's stick",
+    "BRAVO": "Cry of applause",
+    "BEST": "Top-ranked",
+    "EATEN": "Consumed",
+    "TEN": "Number of fingers"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 20,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##TAG",
+    "#SORE",
+    "TOWEL",
+    "IDEA#",
+    "EAR##"
+   ],
+   "numOnly": [
+    "TAG",
+    "TOWER",
+    "AREA",
+    "GEL",
+    "SORE"
+   ],
+   "clues": {
+    "SODA": "Fizzy drink",
+    "TOWEL": "Bath drying cloth",
+    "TIE": "Neckwear",
+    "IDEA": "Brainstorm result",
+    "EAR": "Hearing organ"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 7,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

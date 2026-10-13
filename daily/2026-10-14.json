@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-14",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "#STAY",
+    "#TIDE",
+    "LOTUS",
+    "ORAL#",
+    "WENT#"
+   ],
+   "numOnly": [
+    "STORE",
+    "LOW",
+    "ORAL",
+    "WENT"
+   ],
+   "clues": {
+    "STAY": "Remain",
+    "TITAN": "Giant",
+    "ADULT": "Grown-up",
+    "YES": "Opposite of no",
+    "TIDE": "Ocean rise and fall",
+    "LOTUS": "Water lily"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "#CHAT",
+    "#LOGO",
+    "MERRY",
+    "EASE#",
+    "TREE#"
+   ],
+   "numOnly": [
+    "CHAT",
+    "TOY",
+    "MERRY",
+    "MET",
+    "TREE"
+   ],
+   "clues": {
+    "CLEAR": "Transparent",
+    "HORSE": "Saddled animal",
+    "AGREE": "Share the same opinion",
+    "LOGO": "Brand's emblem",
+    "EASE": "Comfort"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##WAN",
+    "#POLO",
+    "FAULT",
+    "UGLY#",
+    "RED##"
+   ],
+   "numOnly": [
+    "WAN",
+    "WOULD",
+    "NOT",
+    "FAULT",
+    "UGLY"
+   ],
+   "clues": {
+    "ALLY": "Friend in a conflict",
+    "POLO": "Sport played on horseback",
+    "PAGE": "Book sheet",
+    "FUR": "Mink's coat",
+    "RED": "Color of a stop light"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "#STAR",
+    "#HALO",
+    "BAKED",
+    "OVER#",
+    "WENT#"
+   ],
+   "numOnly": [
+    "TAKEN",
+    "ALERT",
+    "BAKED",
+    "BOW",
+    "WENT"
+   ],
+   "clues": {
+    "STAR": "Night sky twinkler",
+    "SHAVE": "Remove facial hair",
+    "ROD": "Fishing pole",
+    "HALO": "Angel's ring of light",
+    "OVER": "Above"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

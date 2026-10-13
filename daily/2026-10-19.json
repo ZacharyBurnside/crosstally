@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-19",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##FIG",
+    "#MADE",
+    "GUILT",
+    "ACRE#",
+    "SHY##"
+   ],
+   "numOnly": [
+    "FIG",
+    "FAIRY",
+    "GET",
+    "ACRE"
+   ],
+   "clues": {
+    "IDLE": "Not working",
+    "MADE": "Built",
+    "MUCH": "A great deal",
+    "GUILT": "Remorse for a wrong",
+    "GAS": "Fuel for a car",
+    "SHY": "Bashful"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##LAG",
+    "#WERE",
+    "TRACT",
+    "WASH#",
+    "OPT##"
+   ],
+   "numOnly": [
+    "LAG",
+    "LEAST",
+    "GET",
+    "WRAP",
+    "OPT"
+   ],
+   "clues": {
+    "ARCH": "Curved structure over a doorway",
+    "WERE": "Past tense of \"are\"",
+    "TRACT": "Area of land",
+    "TWO": "One plus one",
+    "WASH": "Clean with water"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 9,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##TAB",
+    "#WORE",
+    "TRACE",
+    "WASH#",
+    "OPT##"
+   ],
+   "numOnly": [
+    "TAB",
+    "TOAST",
+    "BEE",
+    "TRACE",
+    "OPT"
+   ],
+   "clues": {
+    "ARCH": "Curved structure over a doorway",
+    "WORE": "Had on, as clothes",
+    "WRAP": "Cover with paper",
+    "TWO": "One plus one",
+    "WASH": "Clean with water"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 9,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##FIG",
+    "#NICE",
+    "ROBOT",
+    "OVEN#",
+    "TAR##"
+   ],
+   "numOnly": [
+    "NOVA",
+    "ROBOT",
+    "ROT",
+    "OVEN",
+    "TAR"
+   ],
+   "clues": {
+    "FIG": "Fruit in a Newton cookie",
+    "FIBER": "Roughage in food",
+    "ICON": "Small picture on a screen",
+    "GET": "Obtain",
+    "NICE": "Pleasant"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

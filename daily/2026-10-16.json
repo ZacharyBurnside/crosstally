@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-16",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "APT##",
+    "LAID#",
+    "TIMES",
+    "#DEEP",
+    "##DRY"
+   ],
+   "numOnly": [
+    "APT",
+    "PAID",
+    "DEER",
+    "DEEP"
+   ],
+   "clues": {
+    "ALT": "Computer key beside the space bar",
+    "TIMED": "Measured with a clock",
+    "LAID": "Put down flat",
+    "TIMES": "Multiplication word",
+    "SPY": "Secret agent",
+    "DRY": "Not wet"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##SUM",
+    "SHAPE",
+    "COLOR",
+    "ALONE",
+    "MEN##"
+   ],
+   "numOnly": [
+    "SUM",
+    "UPON",
+    "SHAPE",
+    "HOLE",
+    "MEN"
+   ],
+   "clues": {
+    "SALON": "Hair-cutting shop",
+    "MERE": "Nothing more than",
+    "SCAM": "Swindle",
+    "COLOR": "Red or blue",
+    "ALONE": "By oneself"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##NOW",
+    "#CAPE",
+    "SAVED",
+    "PLAN#",
+    "ALL##"
+   ],
+   "numOnly": [
+    "CAPE",
+    "CALL",
+    "SPA",
+    "PLAN",
+    "ALL"
+   ],
+   "clues": {
+    "NOW": "At this moment",
+    "NAVAL": "Of the fleet",
+    "OPEN": "Not closed",
+    "WED": "Marry",
+    "SAVED": "Rescued, or put aside"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##RUB",
+    "#TONE",
+    "TRAIT",
+    "EAST#",
+    "APT##"
+   ],
+   "numOnly": [
+    "RUB",
+    "ROAST",
+    "UNIT",
+    "BET",
+    "TRAIT"
+   ],
+   "clues": {
+    "TONE": "Quality of a sound",
+    "TRAP": "Snare",
+    "TEA": "Hot leaf drink",
+    "EAST": "Where the sun rises",
+    "APT": "Fitting"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}
