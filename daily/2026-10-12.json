@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-12",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "MOM##",
+    "OVEN#",
+    "BATON",
+    "#LAVA",
+    "##LAP"
+   ],
+   "numOnly": [
+    "NOVA",
+    "NAP",
+    "LAVA",
+    "LAP"
+   ],
+   "clues": {
+    "MOM": "Female parent",
+    "MOB": "Unruly crowd",
+    "OVAL": "Egg shape",
+    "METAL": "Iron or tin",
+    "OVEN": "Baking appliance",
+    "BATON": "Conductor's stick"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##BAG",
+    "#CUBE",
+    "WHILE",
+    "HOLE#",
+    "OPT##"
+   ],
+   "numOnly": [
+    "BAG",
+    "BUILT",
+    "GEE",
+    "WHO",
+    "OPT"
+   ],
+   "clues": {
+    "ABLE": "Capable",
+    "CUBE": "Box with six equal sides",
+    "CHOP": "Cut with an ax",
+    "WHILE": "During",
+    "HOLE": "Gap in the ground"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##BOW",
+    "#GONE",
+    "TRACT",
+    "WIRE#",
+    "ODD##"
+   ],
+   "numOnly": [
+    "BOW",
+    "BOARD",
+    "WET",
+    "GONE",
+    "GRID"
+   ],
+   "clues": {
+    "ONCE": "One time",
+    "TRACT": "Area of land",
+    "TWO": "One plus one",
+    "WIRE": "Metal strand",
+    "ODD": "Not even"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##COD",
+    "#TUNA",
+    "WORLD",
+    "ENVY#",
+    "BEE##"
+   ],
+   "numOnly": [
+    "CURVE",
+    "TONE",
+    "WEB",
+    "ENVY",
+    "BEE"
+   ],
+   "clues": {
+    "COD": "Fish in fish and chips",
+    "ONLY": "Sole",
+    "DAD": "Father, informally",
+    "TUNA": "Fish in a sandwich can",
+    "WORLD": "Globe"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

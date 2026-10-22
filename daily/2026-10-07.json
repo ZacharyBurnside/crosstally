@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-07",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##RAT",
+    "#WERE",
+    "RISEN",
+    "IDEA#",
+    "PET##"
+   ],
+   "numOnly": [
+    "WIDE",
+    "RIP",
+    "IDEA",
+    "PET"
+   ],
+   "clues": {
+    "RAT": "Rodent",
+    "RESET": "Set back to start",
+    "AREA": "Length times width",
+    "TEN": "Number of fingers",
+    "WERE": "Past tense of \"are\"",
+    "RISEN": "Gone up"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 8,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "#STAY",
+    "#TILE",
+    "COMET",
+    "OVER#",
+    "TEST#"
+   ],
+   "numOnly": [
+    "STAY",
+    "TIMES",
+    "YET",
+    "COT",
+    "TEST"
+   ],
+   "clues": {
+    "STOVE": "Cooking appliance",
+    "ALERT": "Watchful",
+    "TILE": "Bathroom floor square",
+    "COMET": "Icy visitor with a tail",
+    "OVER": "Above"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##NEW",
+    "STOVE",
+    "EATEN",
+    "ALERT",
+    "LED##"
+   ],
+   "numOnly": [
+    "NEW",
+    "EVER",
+    "WENT",
+    "TALE",
+    "EATEN"
+   ],
+   "clues": {
+    "NOTED": "Famous",
+    "STOVE": "Cooking appliance",
+    "SEAL": "Marine mammal that barks",
+    "ALERT": "Watchful",
+    "LED": "Was in front"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##WAR",
+    "#SOLO",
+    "STRAW",
+    "PASS#",
+    "AYE##"
+   ],
+   "numOnly": [
+    "WORSE",
+    "SOLO",
+    "STAY",
+    "STRAW",
+    "AYE"
+   ],
+   "clues": {
+    "WAR": "Armed conflict",
+    "ALAS": "Expression of sorrow",
+    "ROW": "Line of seats",
+    "SPA": "Resort with massages",
+    "PASS": "Go by"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

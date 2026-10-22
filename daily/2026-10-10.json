@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-10",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##SAY",
+    "#CAGE",
+    "HAVEN",
+    "USED#",
+    "BED##"
+   ],
+   "numOnly": [
+    "SAY",
+    "SAVED",
+    "YEN",
+    "BED"
+   ],
+   "clues": {
+    "AGED": "Old",
+    "CAGE": "Bird enclosure",
+    "CASE": "Briefcase",
+    "HAVEN": "Safe place",
+    "HUB": "Center of activity",
+    "USED": "Not new"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "OWL##",
+    "FOOD#",
+    "FOCAL",
+    "#LATE",
+    "##LAG"
+   ],
+   "numOnly": [
+    "OFF",
+    "FOOD",
+    "DATA",
+    "LEG",
+    "LAG"
+   ],
+   "clues": {
+    "OWL": "Hooting bird",
+    "WOOL": "Sheep's coat",
+    "LOCAL": "Nearby",
+    "FOCAL": "Central",
+    "LATE": "Not on time"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 14,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "AND##",
+    "LORD#",
+    "TRIED",
+    "#MENU",
+    "##DYE"
+   ],
+   "numOnly": [
+    "ALT",
+    "LORD",
+    "DENY",
+    "TRIED",
+    "DYE"
+   ],
+   "clues": {
+    "AND": "Plus, in words",
+    "NORM": "Standard",
+    "DRIED": "Not wet anymore",
+    "DUE": "Owed",
+    "MENU": "Restaurant list"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##CUE",
+    "#VISA",
+    "LIVER",
+    "ACID#",
+    "GEL##"
+   ],
+   "numOnly": [
+    "CUE",
+    "CIVIL",
+    "USED",
+    "EAR",
+    "LIVER"
+   ],
+   "clues": {
+    "VISA": "Travel permit",
+    "VICE": "Bad habit",
+    "LAG": "Fall behind",
+    "ACID": "Sour chemical",
+    "GEL": "Hair styling product"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-09",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##BAT",
+    "#TOUR",
+    "IRONY",
+    "LIST#",
+    "LOT##"
+   ],
+   "numOnly": [
+    "TRIO",
+    "ILL",
+    "LIST",
+    "LOT"
+   ],
+   "clues": {
+    "BAT": "Nocturnal flier",
+    "BOOST": "Give a lift to",
+    "AUNT": "Parent's sister",
+    "TRY": "Attempt",
+    "TOUR": "Guided trip around a place",
+    "IRONY": "Saying the opposite of what's meant"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##FIG",
+    "#MADE",
+    "GUILT",
+    "ACRE#",
+    "SHY##"
+   ],
+   "numOnly": [
+    "FIG",
+    "FAIRY",
+    "GET",
+    "GAS",
+    "SHY"
+   ],
+   "clues": {
+    "IDLE": "Not working",
+    "MADE": "Built",
+    "MUCH": "A great deal",
+    "GUILT": "Remorse for a wrong",
+    "ACRE": "Unit of land area"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "GEM##",
+    "EVEN#",
+    "TIRED",
+    "#LIAR",
+    "##TRY"
+   ],
+   "numOnly": [
+    "GEM",
+    "GET",
+    "MERIT",
+    "EVEN",
+    "NEAR"
+   ],
+   "clues": {
+    "EVIL": "Wicked",
+    "TIRED": "Sleepy",
+    "DRY": "Not wet",
+    "LIAR": "Fibber",
+    "TRY": "Attempt"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "ARC##",
+    "ROOM#",
+    "MOVIE",
+    "#FELL",
+    "##REF"
+   ],
+   "numOnly": [
+    "ROOF",
+    "COVER",
+    "ROOM",
+    "MILE",
+    "FELL"
+   ],
+   "clues": {
+    "ARC": "Curved line",
+    "ARM": "Limb with an elbow",
+    "MOVIE": "Film",
+    "ELF": "Santa's helper",
+    "REF": "Game official, informally"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-11",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##SUM",
+    "#CURE",
+    "ALIGN",
+    "GATE#",
+    "EYE##"
+   ],
+   "numOnly": [
+    "URGE",
+    "AGE",
+    "GATE",
+    "EYE"
+   ],
+   "clues": {
+    "SUM": "Result of addition",
+    "SUITE": "Hotel rooms",
+    "MEN": "Adult males",
+    "CURE": "Remedy that heals",
+    "CLAY": "Potter's material",
+    "ALIGN": "Line up"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##GUM",
+    "#CURE",
+    "ALIGN",
+    "RUDE#",
+    "TEE##"
+   ],
+   "numOnly": [
+    "GUM",
+    "URGE",
+    "ART",
+    "RUDE",
+    "TEE"
+   ],
+   "clues": {
+    "GUIDE": "Lead the way",
+    "MEN": "Adult males",
+    "CURE": "Remedy that heals",
+    "CLUE": "Hint",
+    "ALIGN": "Line up"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "#PAST",
+    "#ECHO",
+    "RATIO",
+    "ICON#",
+    "MERE#"
+   ],
+   "numOnly": [
+    "PAST",
+    "SHINE",
+    "TOO",
+    "RATIO",
+    "RIM"
+   ],
+   "clues": {
+    "PEACE": "Calm",
+    "ACTOR": "Person in a play",
+    "ECHO": "Repeated sound",
+    "ICON": "Small picture on a screen",
+    "MERE": "Nothing more than"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##CUP",
+    "#CONE",
+    "PLAIN",
+    "EAST#",
+    "ANT##"
+   ],
+   "numOnly": [
+    "CUP",
+    "COAST",
+    "PEN",
+    "CONE",
+    "PLAIN"
+   ],
+   "clues": {
+    "UNIT": "Single item",
+    "CLAN": "Family group",
+    "PEA": "Green vegetable in a pod",
+    "EAST": "Where the sun rises",
+    "ANT": "Picnic insect"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

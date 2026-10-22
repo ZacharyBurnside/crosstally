@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-08",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##PRO",
+    "#PAID",
+    "RAISE",
+    "ACNE#",
+    "NET##"
+   ],
+   "numOnly": [
+    "PRO",
+    "ODE",
+    "PAID",
+    "PACE"
+   ],
+   "clues": {
+    "PAINT": "Brush color",
+    "RISE": "Go up",
+    "RAISE": "Lift",
+    "RAN": "Jogged",
+    "ACNE": "Teen skin problem",
+    "NET": "Tennis court divider"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "PAT##",
+    "ATOP#",
+    "LOTUS",
+    "#MARE",
+    "##LET"
+   ],
+   "numOnly": [
+    "PAT",
+    "PAL",
+    "TOTAL",
+    "SET",
+    "LET"
+   ],
+   "clues": {
+    "ATOM": "Smallest unit of an element",
+    "ATOP": "On the summit of",
+    "PURE": "Unmixed",
+    "LOTUS": "Water lily",
+    "MARE": "Female horse"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##HIT",
+    "SMASH",
+    "CABLE",
+    "ALIEN",
+    "NET##"
+   ],
+   "numOnly": [
+    "HIT",
+    "HABIT",
+    "THEN",
+    "ALIEN",
+    "NET"
+   ],
+   "clues": {
+    "ISLE": "Small island",
+    "SMASH": "Break into pieces",
+    "SCAN": "Look over quickly",
+    "MALE": "Opposite of female",
+    "CABLE": "Thick wire"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##RAM",
+    "#GAME",
+    "AUDIT",
+    "GRAD#",
+    "OUR##"
+   ],
+   "numOnly": [
+    "RAM",
+    "RADAR",
+    "AMID",
+    "MET",
+    "GAME"
+   ],
+   "clues": {
+    "GURU": "Spiritual teacher",
+    "AUDIT": "Official financial check",
+    "AGO": "Earlier than now",
+    "GRAD": "Recent school finisher, informally",
+    "OUR": "Belonging to us"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

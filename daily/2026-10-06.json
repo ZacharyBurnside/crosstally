@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-06",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##PAR",
+    "#BURY",
+    "SINCE",
+    "EACH#",
+    "ASH##"
+   ],
+   "numOnly": [
+    "PAR",
+    "PUNCH",
+    "RYE",
+    "EACH"
+   ],
+   "clues": {
+    "ARCH": "Curved structure over a doorway",
+    "BURY": "Place underground",
+    "BIAS": "Unfair preference",
+    "SINCE": "From then on",
+    "SEA": "Large body of salt water",
+    "ASH": "Fireplace residue"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "TEA##",
+    "HARM#",
+    "ERROR",
+    "#NODE",
+    "##WED"
+   ],
+   "numOnly": [
+    "THE",
+    "HARM",
+    "MODE",
+    "RED",
+    "NODE"
+   ],
+   "clues": {
+    "TEA": "Hot leaf drink",
+    "EARN": "Make money",
+    "ARROW": "Archer's missile",
+    "ERROR": "Mistake",
+    "WED": "Marry"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 12,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "ASH##",
+    "POUR#",
+    "TUMOR",
+    "#POLO",
+    "##RED"
+   ],
+   "numOnly": [
+    "ASH",
+    "HUMOR",
+    "ROD",
+    "POLO",
+    "RED"
+   ],
+   "clues": {
+    "APT": "Fitting",
+    "SOUP": "Bowl of broth",
+    "POUR": "Tip a pitcher",
+    "ROLE": "Part in a play",
+    "TUMOR": "Abnormal growth"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "#SHOE",
+    "#TOWN",
+    "WOUND",
+    "ELSE#",
+    "DEER#"
+   ],
+   "numOnly": [
+    "STOLE",
+    "HOUSE",
+    "WOUND",
+    "WED",
+    "DEER"
+   ],
+   "clues": {
+    "SHOE": "Footwear",
+    "OWNER": "Possessor",
+    "END": "Finish",
+    "TOWN": "Small city",
+    "ELSE": "Otherwise"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}
