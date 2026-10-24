@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-27",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##BUS",
+    "#FARE",
+    "WEDGE",
+    "HUGE#",
+    "ODE##"
+   ],
+   "numOnly": [
+    "BUS",
+    "URGE",
+    "SEE",
+    "FARE"
+   ],
+   "clues": {
+    "BADGE": "Sheriff's emblem",
+    "FEUD": "Long bitter quarrel",
+    "WEDGE": "Triangular piece",
+    "WHO": "Which person",
+    "HUGE": "Enormous",
+    "ODE": "Poem of praise"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##RIB",
+    "#CONE",
+    "PLACE",
+    "RASH#",
+    "OPT##"
+   ],
+   "numOnly": [
+    "RIB",
+    "ROAST",
+    "BEE",
+    "PRO",
+    "OPT"
+   ],
+   "clues": {
+    "INCH": "One twelfth of a foot",
+    "CONE": "Ice cream holder",
+    "CLAP": "Applaud",
+    "PLACE": "Put",
+    "RASH": "Itchy skin condition"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##EVE",
+    "#PREY",
+    "FLARE",
+    "EASY#",
+    "DYE##"
+   ],
+   "numOnly": [
+    "EVE",
+    "VERY",
+    "EYE",
+    "PREY",
+    "EASY"
+   ],
+   "clues": {
+    "ERASE": "Rub out",
+    "PLAY": "Perform on stage",
+    "FLARE": "Burst of bright light",
+    "FED": "Gave food to",
+    "DYE": "Hair coloring"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "#SOFA",
+    "#TRAY",
+    "ROGUE",
+    "ORAL#",
+    "TENT#"
+   ],
+   "numOnly": [
+    "STORE",
+    "FAULT",
+    "ROT",
+    "ORAL",
+    "TENT"
+   ],
+   "clues": {
+    "SOFA": "Couch",
+    "ORGAN": "Heart or liver",
+    "AYE": "Vote in favor",
+    "TRAY": "Flat serving platter",
+    "ROGUE": "Scoundrel"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}
