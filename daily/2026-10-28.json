@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-28",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##PUB",
+    "#LOSE",
+    "BAKED",
+    "EVER#",
+    "TAR##"
+   ],
+   "numOnly": [
+    "USER",
+    "BAKED",
+    "BET",
+    "EVER"
+   ],
+   "clues": {
+    "PUB": "British bar",
+    "POKER": "Card game with bluffing",
+    "BED": "Place to sleep",
+    "LOSE": "Misplace",
+    "LAVA": "Molten rock from a volcano",
+    "TAR": "Road material"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##BET",
+    "#LAVA",
+    "POKER",
+    "USER#",
+    "BED##"
+   ],
+   "numOnly": [
+    "BET",
+    "BAKED",
+    "EVER",
+    "PUB",
+    "BED"
+   ],
+   "clues": {
+    "TAR": "Road material",
+    "LAVA": "Molten rock from a volcano",
+    "LOSE": "Misplace",
+    "POKER": "Card game with bluffing",
+    "USER": "App customer"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 8,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##BET",
+    "#LAVA",
+    "TOKEN",
+    "USER#",
+    "BED##"
+   ],
+   "numOnly": [
+    "BET",
+    "BAKED",
+    "EVER",
+    "TUB",
+    "USER"
+   ],
+   "clues": {
+    "TAN": "Beach color",
+    "LAVA": "Molten rock from a volcano",
+    "LOSE": "Misplace",
+    "TOKEN": "Arcade coin",
+    "BED": "Place to sleep"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##LEG",
+    "#LAVA",
+    "MODEL",
+    "USER#",
+    "DEN##"
+   ],
+   "numOnly": [
+    "LOSE",
+    "MODEL",
+    "MUD",
+    "USER",
+    "DEN"
+   ],
+   "clues": {
+    "LEG": "Limb with a knee",
+    "LADEN": "Heavily loaded",
+    "EVER": "At any time",
+    "GAL": "Girl, informally",
+    "LAVA": "Molten rock from a volcano"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}
