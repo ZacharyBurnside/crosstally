@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-29",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##LIT",
+    "#HIDE",
+    "SEVEN",
+    "AREA#",
+    "COD##"
+   ],
+   "numOnly": [
+    "LIT",
+    "LIVED",
+    "TEN",
+    "COD"
+   ],
+   "clues": {
+    "IDEA": "Brainstorm result",
+    "HIDE": "Conceal",
+    "HERO": "Brave rescuer",
+    "SEVEN": "Number of days in a week",
+    "SAC": "Pouch in an animal's body",
+    "AREA": "Length times width"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##SAW",
+    "#COLA",
+    "RALLY",
+    "ENVY#",
+    "FEE##"
+   ],
+   "numOnly": [
+    "SAW",
+    "SOLVE",
+    "WAY",
+    "REF",
+    "FEE"
+   ],
+   "clues": {
+    "ALLY": "Friend in a conflict",
+    "COLA": "Brown soft drink",
+    "CANE": "Walking stick",
+    "RALLY": "Gathering of supporters",
+    "ENVY": "Green-eyed feeling"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 9,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "RAT##",
+    "ATOM#",
+    "MOTOR",
+    "#PALE",
+    "##LED"
+   ],
+   "numOnly": [
+    "RAT",
+    "RAM",
+    "TOTAL",
+    "ATOM",
+    "LED"
+   ],
+   "clues": {
+    "ATOP": "On the summit of",
+    "MOLE": "Underground digger",
+    "MOTOR": "Engine",
+    "RED": "Color of a stop light",
+    "PALE": "Light-colored"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##MET",
+    "CLEAR",
+    "HORSE",
+    "AGREE",
+    "TOY##"
+   ],
+   "numOnly": [
+    "MET",
+    "MERRY",
+    "TREE",
+    "HORSE",
+    "AGREE"
+   ],
+   "clues": {
+    "EASE": "Comfort",
+    "CLEAR": "Transparent",
+    "CHAT": "Casual talk",
+    "LOGO": "Brand's emblem",
+    "TOY": "Plaything"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}
