@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-30",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##LOW",
+    "STOVE",
+    "TITAN",
+    "ADULT",
+    "YES##"
+   ],
+   "numOnly": [
+    "LOW",
+    "OVAL",
+    "WENT",
+    "STOVE"
+   ],
+   "clues": {
+    "LOTUS": "Water lily",
+    "STAY": "Remain",
+    "TIDE": "Ocean rise and fall",
+    "TITAN": "Giant",
+    "ADULT": "Grown-up",
+    "YES": "Opposite of no"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##BAD",
+    "#MEMO",
+    "DIGIT",
+    "ACID#",
+    "MEN##"
+   ],
+   "numOnly": [
+    "BAD",
+    "BEGIN",
+    "DOT",
+    "MICE",
+    "MEN"
+   ],
+   "clues": {
+    "AMID": "In the middle of",
+    "MEMO": "Office note",
+    "DIGIT": "Finger or number",
+    "DAM": "Barrier across a river",
+    "ACID": "Sour chemical"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##HIT",
+    "SMASH",
+    "CABLE",
+    "ALIEN",
+    "NET##"
+   ],
+   "numOnly": [
+    "HABIT",
+    "ISLE",
+    "SCAN",
+    "CABLE",
+    "NET"
+   ],
+   "clues": {
+    "HIT": "Strike",
+    "THEN": "At that time",
+    "SMASH": "Break into pieces",
+    "MALE": "Opposite of female",
+    "ALIEN": "Visitor from space"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##SET",
+    "#SOLO",
+    "WORSE",
+    "ACRE#",
+    "SKY##"
+   ],
+   "numOnly": [
+    "SET",
+    "SORRY",
+    "ELSE",
+    "TOE",
+    "SOLO"
+   ],
+   "clues": {
+    "SOCK": "Foot covering",
+    "WORSE": "Less good",
+    "WAS": "Existed, once",
+    "ACRE": "Unit of land area",
+    "SKY": "Blue overhead"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 13,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

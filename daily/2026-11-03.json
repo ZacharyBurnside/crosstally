@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-03",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##TOO",
+    "PLAIN",
+    "AISLE",
+    "CAT##",
+    "TRY##"
+   ],
+   "numOnly": [
+    "TASTY",
+    "PACT",
+    "CAT",
+    "TRY"
+   ],
+   "clues": {
+    "TOO": "Also",
+    "OIL": "Slippery cooking liquid",
+    "ONE": "Single unit",
+    "PLAIN": "Simple",
+    "LIAR": "Fibber",
+    "AISLE": "Walkway between rows"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "#PREP",
+    "#RIDE",
+    "LODGE",
+    "ANGEL",
+    "GEE##"
+   ],
+   "numOnly": [
+    "PRONE",
+    "PEEL",
+    "RIDE",
+    "LAG",
+    "GEE"
+   ],
+   "clues": {
+    "PREP": "Get ready, informally",
+    "RIDGE": "Long narrow hilltop",
+    "EDGE": "Rim or border",
+    "LODGE": "Mountain inn",
+    "ANGEL": "Heavenly being"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 10,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "#SCAM",
+    "#HOLE",
+    "SALON",
+    "UPON#",
+    "MERE#"
+   ],
+   "numOnly": [
+    "SHAPE",
+    "COLOR",
+    "HOLE",
+    "SUM",
+    "UPON"
+   ],
+   "clues": {
+    "SCAM": "Swindle",
+    "ALONE": "By oneself",
+    "MEN": "Adult males",
+    "SALON": "Hair-cutting shop",
+    "MERE": "Nothing more than"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##GIN",
+    "#RULE",
+    "GUILT",
+    "ADD##",
+    "SEE##"
+   ],
+   "numOnly": [
+    "GUIDE",
+    "GUILT",
+    "GAS",
+    "ADD",
+    "SEE"
+   ],
+   "clues": {
+    "GIN": "Martini liquor",
+    "ILL": "Sick",
+    "NET": "Tennis court divider",
+    "RULE": "Regulation",
+    "RUDE": "Impolite"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 10,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

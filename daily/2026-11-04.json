@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-04",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "DIM##",
+    "ADAPT",
+    "DONOR",
+    "#LONE",
+    "##RYE"
+   ],
+   "numOnly": [
+    "DIM",
+    "DAD",
+    "MANOR",
+    "ADAPT"
+   ],
+   "clues": {
+    "IDOL": "Object of worship",
+    "PONY": "Small horse",
+    "TREE": "Maple or oak",
+    "DONOR": "Giver of blood or money",
+    "LONE": "Solitary",
+    "RYE": "Whiskey grain"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##COT",
+    "SLOPE",
+    "TIMES",
+    "EVENT",
+    "MET##"
+   ],
+   "numOnly": [
+    "COT",
+    "TEST",
+    "SLOPE",
+    "STEM",
+    "MET"
+   ],
+   "clues": {
+    "COMET": "Icy visitor with a tail",
+    "OPEN": "Not closed",
+    "LIVE": "Reside",
+    "TIMES": "Multiplication word",
+    "EVENT": "Happening"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "PAD##",
+    "OWE##",
+    "PAPER",
+    "#YOGA",
+    "##TOP"
+   ],
+   "numOnly": [
+    "AWAY",
+    "EGO",
+    "RAP",
+    "YOGA",
+    "TOP"
+   ],
+   "clues": {
+    "PAD": "Notebook",
+    "POP": "Fizzy drink, informally",
+    "DEPOT": "Storage or train station",
+    "OWE": "Be in debt",
+    "PAPER": "Writing sheet"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "#BAD#",
+    "SALE#",
+    "ATLAS",
+    "PHOTO",
+    "##WHY"
+   ],
+   "numOnly": [
+    "BATH",
+    "ALLOW",
+    "SALE",
+    "SAP",
+    "PHOTO"
+   ],
+   "clues": {
+    "BAD": "Not good",
+    "DEATH": "End of life",
+    "ATLAS": "Book of maps",
+    "SOY": "Bean used for tofu",
+    "WHY": "For what reason"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

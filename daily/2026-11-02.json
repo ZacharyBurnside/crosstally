@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-02",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##COP",
+    "#SAFE",
+    "PASTE",
+    "ENTER",
+    "TEEN#"
+   ],
+   "numOnly": [
+    "OFTEN",
+    "PASTE",
+    "PET",
+    "ENTER"
+   ],
+   "clues": {
+    "COP": "Police officer, informally",
+    "CASTE": "Hereditary social class",
+    "PEER": "Equal, or look closely",
+    "SAFE": "Secure",
+    "SANE": "Of sound mind",
+    "TEEN": "Adolescent"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##FAT",
+    "##ATE",
+    "ONION",
+    "FIRM#",
+    "FLY##"
+   ],
+   "numOnly": [
+    "FAT",
+    "FAIRY",
+    "TEN",
+    "OFF",
+    "FLY"
+   ],
+   "clues": {
+    "ATOM": "Smallest unit of an element",
+    "ATE": "Had dinner",
+    "ONION": "Layered vegetable that makes eyes water",
+    "NIL": "Zero",
+    "FIRM": "Not squishy"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "#BIG#",
+    "MODE#",
+    "ARENA",
+    "PEARL",
+    "##LET"
+   ],
+   "numOnly": [
+    "BIG",
+    "BORE",
+    "IDEAL",
+    "MODE",
+    "LET"
+   ],
+   "clues": {
+    "GENRE": "Category of art",
+    "MAP": "Chart of roads",
+    "ARENA": "Sports stadium",
+    "ALT": "Computer key beside the space bar",
+    "PEARL": "Gem from an oyster"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "#DATA",
+    "RELAX",
+    "ALIKE",
+    "CAVE#",
+    "EYE##"
+   ],
+   "numOnly": [
+    "ALIVE",
+    "TAKE",
+    "RACE",
+    "ALIKE",
+    "CAVE"
+   ],
+   "clues": {
+    "DATA": "Facts and figures",
+    "DELAY": "Make late",
+    "AXE": "Wood chopper",
+    "RELAX": "Take it easy",
+    "EYE": "Organ of sight"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 7,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-01",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##CAB",
+    "##ACE",
+    "BLUNT",
+    "ROSE#",
+    "AGE##"
+   ],
+   "numOnly": [
+    "CAB",
+    "BET",
+    "BLUNT",
+    "LOG"
+   ],
+   "clues": {
+    "CAUSE": "Reason",
+    "ACNE": "Teen skin problem",
+    "ACE": "Unreturnable serve",
+    "BRA": "Undergarment",
+    "ROSE": "Thorny flower",
+    "AGE": "Years lived"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "#SPAN",
+    "#LANE",
+    "BINGE",
+    "ADDED",
+    "GEAR#"
+   ],
+   "numOnly": [
+    "NEED",
+    "LANE",
+    "BAG",
+    "ADDED",
+    "GEAR"
+   ],
+   "clues": {
+    "SPAN": "Extent from end to end",
+    "SLIDE": "Playground item",
+    "PANDA": "Black-and-white bamboo eater",
+    "ANGER": "Strong displeasure",
+    "BINGE": "Excessive indulgence"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##BAY",
+    "#BALE",
+    "TAKEN",
+    "ORE##",
+    "WED##"
+   ],
+   "numOnly": [
+    "ALE",
+    "BALE",
+    "BARE",
+    "TAKEN",
+    "ORE"
+   ],
+   "clues": {
+    "BAY": "Body of water by a coast",
+    "BAKED": "Cooked in an oven",
+    "YEN": "Japanese currency",
+    "TOW": "Pull a car behind",
+    "WED": "Marry"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 37,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##HIS",
+    "#SORE",
+    "CANON",
+    "AGENT",
+    "RAY##"
+   ],
+   "numOnly": [
+    "HONEY",
+    "CANON",
+    "CAR",
+    "AGENT",
+    "RAY"
+   ],
+   "clues": {
+    "HIS": "Belonging to him",
+    "IRON": "Pressing appliance",
+    "SENT": "Mailed",
+    "SORE": "Painful",
+    "SAGA": "Long story"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}
