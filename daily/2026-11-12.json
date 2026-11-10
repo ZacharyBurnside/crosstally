@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-12",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "CAVE#",
+    "OWING",
+    "WASTE",
+    "#ITEM",
+    "#TAR#"
+   ],
+   "numOnly": [
+    "CAVE",
+    "COW",
+    "GEM",
+    "WASTE"
+   ],
+   "clues": {
+    "AWAIT": "Wait for",
+    "VISTA": "Scenic view",
+    "ENTER": "Go in",
+    "OWING": "Still to be paid",
+    "ITEM": "Single thing",
+    "TAR": "Road material"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 16,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##HUB",
+    "#CASE",
+    "HOPED",
+    "AMP##",
+    "MAY##"
+   ],
+   "numOnly": [
+    "HUB",
+    "HAPPY",
+    "BED",
+    "HAM",
+    "MAY"
+   ],
+   "clues": {
+    "USE": "Put to work",
+    "CASE": "Briefcase",
+    "COMA": "Deep unconsciousness",
+    "HOPED": "Wished for",
+    "AMP": "Guitar volume booster"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##CAB",
+    "#POUR",
+    "ROUTE",
+    "ALLOW",
+    "NOD##"
+   ],
+   "numOnly": [
+    "POUR",
+    "POLO",
+    "ROUTE",
+    "RAN",
+    "NOD"
+   ],
+   "clues": {
+    "CAB": "Taxi",
+    "COULD": "Was able to",
+    "AUTO": "Car, informally",
+    "BREW": "Make beer",
+    "ALLOW": "Permit"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##AWE",
+    "##DIG",
+    "WRONG",
+    "HIRE#",
+    "ODE##"
+   ],
+   "numOnly": [
+    "WRONG",
+    "WHO",
+    "RID",
+    "HIRE",
+    "ODE"
+   ],
+   "clues": {
+    "AWE": "Wonder",
+    "ADORE": "Love deeply",
+    "WINE": "Grape drink",
+    "EGG": "Omelet ingredient",
+    "DIG": "Excavate"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 9,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-11",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##RIP",
+    "BRACE",
+    "EATEN",
+    "TIE##",
+    "AND##"
+   ],
+   "numOnly": [
+    "RIP",
+    "ICE",
+    "PEN",
+    "EATEN"
+   ],
+   "clues": {
+    "RATED": "Judged",
+    "BRACE": "Support",
+    "BETA": "Second Greek letter",
+    "RAIN": "Wet weather",
+    "TIE": "Neckwear",
+    "AND": "Plus, in words"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 7,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##PRO",
+    "#DEED",
+    "FADED",
+    "ORAL#",
+    "GEL##"
+   ],
+   "numOnly": [
+    "PRO",
+    "ODD",
+    "DEED",
+    "DARE",
+    "ORAL"
+   ],
+   "clues": {
+    "PEDAL": "Bike foot part",
+    "REEL": "Fishing line spool",
+    "FADED": "Lost color",
+    "FOG": "Low cloud",
+    "GEL": "Hair styling product"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "ORE##",
+    "PAR##",
+    "TIRED",
+    "#DOME",
+    "##RUN"
+   ],
+   "numOnly": [
+    "ORE",
+    "OPT",
+    "RAID",
+    "PAR",
+    "DOME"
+   ],
+   "clues": {
+    "ERROR": "Mistake",
+    "TIRED": "Sleepy",
+    "EMU": "Flightless Australian bird",
+    "DEN": "Lion's lair",
+    "RUN": "Jog fast"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##FED",
+    "#GRAY",
+    "CLOSE",
+    "AUNT#",
+    "PET##"
+   ],
+   "numOnly": [
+    "FRONT",
+    "CLOSE",
+    "CAP",
+    "AUNT",
+    "PET"
+   ],
+   "clues": {
+    "FED": "Gave food to",
+    "EAST": "Where the sun rises",
+    "DYE": "Hair coloring",
+    "GRAY": "Color of storm clouds",
+    "GLUE": "Sticky adhesive"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

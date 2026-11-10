@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-06",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "OWL##",
+    "FOOT#",
+    "FOCUS",
+    "#LANE",
+    "##LET"
+   ],
+   "numOnly": [
+    "WOOL",
+    "SET",
+    "LANE",
+    "LET"
+   ],
+   "clues": {
+    "OWL": "Hooting bird",
+    "OFF": "Not on",
+    "LOCAL": "Nearby",
+    "FOOT": "12 inches",
+    "TUNE": "Melody",
+    "FOCUS": "Concentrate"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##TAP",
+    "#WORE",
+    "TRACT",
+    "WASH#",
+    "OPT##"
+   ],
+   "numOnly": [
+    "TAP",
+    "PET",
+    "WORE",
+    "WRAP",
+    "OPT"
+   ],
+   "clues": {
+    "TOAST": "Browned bread",
+    "ARCH": "Curved structure over a doorway",
+    "TRACT": "Area of land",
+    "TWO": "One plus one",
+    "WASH": "Clean with water"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 8,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##AMP",
+    "#TRIO",
+    "PAINT",
+    "ELSE#",
+    "ALE##"
+   ],
+   "numOnly": [
+    "AMP",
+    "MINE",
+    "POT",
+    "TRIO",
+    "TALL"
+   ],
+   "clues": {
+    "ARISE": "Get up",
+    "PAINT": "Brush color",
+    "PEA": "Green vegetable in a pod",
+    "ELSE": "Otherwise",
+    "ALE": "Pub brew"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##SIT",
+    "#DICE",
+    "LINEN",
+    "ARC##",
+    "BEE##"
+   ],
+   "numOnly": [
+    "SIT",
+    "SINCE",
+    "ICE",
+    "TEN",
+    "DICE"
+   ],
+   "clues": {
+    "DIRE": "Extremely serious",
+    "LINEN": "Fabric from flax",
+    "LAB": "Scientist's workplace",
+    "ARC": "Curved line",
+    "BEE": "Honey maker"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 42,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

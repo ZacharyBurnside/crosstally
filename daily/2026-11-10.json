@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-10",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "#RAT#",
+    "SALE#",
+    "AGONY",
+    "DENSE",
+    "##GET"
+   ],
+   "numOnly": [
+    "RAT",
+    "RAGE",
+    "SALE",
+    "SAD"
+   ],
+   "clues": {
+    "ALONG": "Together with",
+    "TENSE": "Stressed or tight",
+    "AGONY": "Extreme pain",
+    "YET": "Up to now",
+    "DENSE": "Tightly packed",
+    "GET": "Obtain"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 16,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "JAW##",
+    "EXIT#",
+    "TIDAL",
+    "#SOLE",
+    "##WET"
+   ],
+   "numOnly": [
+    "JAW",
+    "JET",
+    "AXIS",
+    "LET",
+    "SOLE"
+   ],
+   "clues": {
+    "WIDOW": "Woman whose husband died",
+    "EXIT": "Way out",
+    "TALE": "Story",
+    "TIDAL": "Of the ocean's rise and fall",
+    "WET": "Not dry"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##WEB",
+    "#DOVE",
+    "LIMIT",
+    "OVAL#",
+    "TEN##"
+   ],
+   "numOnly": [
+    "DOVE",
+    "DIVE",
+    "LOT",
+    "OVAL",
+    "TEN"
+   ],
+   "clues": {
+    "WEB": "Spider's creation",
+    "WOMAN": "Adult female",
+    "EVIL": "Wicked",
+    "BET": "Wager",
+    "LIMIT": "Maximum"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 10,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##ARK",
+    "##PIN",
+    "LEASE",
+    "AGREE",
+    "POT##"
+   ],
+   "numOnly": [
+    "APART",
+    "LEASE",
+    "LAP",
+    "AGREE",
+    "POT"
+   ],
+   "clues": {
+    "ARK": "Noah's boat",
+    "RISE": "Go up",
+    "KNEE": "Leg joint",
+    "PIN": "Sewing fastener",
+    "EGO": "Sense of self-importance"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 7,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}
