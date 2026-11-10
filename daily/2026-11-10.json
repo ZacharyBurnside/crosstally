@@ -6,29 +6,29 @@
    "level": 1,
    "size": 5,
    "grid": [
-    "#RAT#",
-    "SALE#",
-    "AGONY",
-    "DENSE",
-    "##GET"
+    "##PAR",
+    "#BURY",
+    "SINCE",
+    "EACH#",
+    "ASH##"
    ],
    "numOnly": [
-    "RAT",
-    "RAGE",
-    "SALE",
-    "SAD"
+    "PAR",
+    "PUNCH",
+    "RYE",
+    "EACH"
    ],
    "clues": {
-    "ALONG": "Together with",
-    "TENSE": "Stressed or tight",
-    "AGONY": "Extreme pain",
-    "YET": "Up to now",
-    "DENSE": "Tightly packed",
-    "GET": "Obtain"
+    "ARCH": "Curved structure over a doorway",
+    "BURY": "Place underground",
+    "BIAS": "Unfair preference",
+    "SINCE": "From then on",
+    "SEA": "Large body of salt water",
+    "ASH": "Fireplace residue"
    },
    "meta": {
     "unknown": 3,
-    "fillsWithoutTotals": 16,
+    "fillsWithoutTotals": 4,
     "numberOnly": 4,
     "answers": 10,
     "level": 1,
@@ -39,29 +39,29 @@
    "level": 2,
    "size": 5,
    "grid": [
-    "JAW##",
-    "EXIT#",
-    "TIDAL",
-    "#SOLE",
-    "##WET"
+    "TEA##",
+    "HARM#",
+    "ERROR",
+    "#NODE",
+    "##WED"
    ],
    "numOnly": [
-    "JAW",
-    "JET",
-    "AXIS",
-    "LET",
-    "SOLE"
+    "THE",
+    "HARM",
+    "MODE",
+    "RED",
+    "NODE"
    ],
    "clues": {
-    "WIDOW": "Woman whose husband died",
-    "EXIT": "Way out",
-    "TALE": "Story",
-    "TIDAL": "Of the ocean's rise and fall",
-    "WET": "Not dry"
+    "TEA": "Hot leaf drink",
+    "EARN": "Make money",
+    "ARROW": "Archer's missile",
+    "ERROR": "Mistake",
+    "WED": "Marry"
    },
    "meta": {
     "unknown": 4,
-    "fillsWithoutTotals": 6,
+    "fillsWithoutTotals": 12,
     "numberOnly": 5,
     "answers": 10,
     "level": 2,
@@ -72,29 +72,29 @@
    "level": 3,
    "size": 5,
    "grid": [
-    "##WEB",
-    "#DOVE",
-    "LIMIT",
-    "OVAL#",
-    "TEN##"
+    "ASH##",
+    "POUR#",
+    "TUMOR",
+    "#POLO",
+    "##RED"
    ],
    "numOnly": [
-    "DOVE",
-    "DIVE",
-    "LOT",
-    "OVAL",
-    "TEN"
+    "ASH",
+    "HUMOR",
+    "ROD",
+    "POLO",
+    "RED"
    ],
    "clues": {
-    "WEB": "Spider's creation",
-    "WOMAN": "Adult female",
-    "EVIL": "Wicked",
-    "BET": "Wager",
-    "LIMIT": "Maximum"
+    "APT": "Fitting",
+    "SOUP": "Bowl of broth",
+    "POUR": "Tip a pitcher",
+    "ROLE": "Part in a play",
+    "TUMOR": "Abnormal growth"
    },
    "meta": {
     "unknown": 5,
-    "fillsWithoutTotals": 10,
+    "fillsWithoutTotals": 5,
     "numberOnly": 5,
     "answers": 10,
     "level": 3,
@@ -105,29 +105,29 @@
    "level": 4,
    "size": 5,
    "grid": [
-    "##ARK",
-    "##PIN",
-    "LEASE",
-    "AGREE",
-    "POT##"
+    "#SHOE",
+    "#TOWN",
+    "WOUND",
+    "ELSE#",
+    "DEER#"
    ],
    "numOnly": [
-    "APART",
-    "LEASE",
-    "LAP",
-    "AGREE",
-    "POT"
+    "STOLE",
+    "HOUSE",
+    "WOUND",
+    "WED",
+    "DEER"
    ],
    "clues": {
-    "ARK": "Noah's boat",
-    "RISE": "Go up",
-    "KNEE": "Leg joint",
-    "PIN": "Sewing fastener",
-    "EGO": "Sense of self-importance"
+    "SHOE": "Footwear",
+    "OWNER": "Possessor",
+    "END": "Finish",
+    "TOWN": "Small city",
+    "ELSE": "Otherwise"
    },
    "meta": {
     "unknown": 6,
-    "fillsWithoutTotals": 7,
+    "fillsWithoutTotals": 5,
     "numberOnly": 5,
     "answers": 10,
     "level": 4,

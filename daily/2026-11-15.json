@@ -6,29 +6,29 @@
    "level": 1,
    "size": 5,
    "grid": [
-    "##TAP",
-    "#VICE",
-    "DIGIT",
-    "USED#",
-    "BAR##"
+    "##SUM",
+    "#CURE",
+    "ALIGN",
+    "GATE#",
+    "EYE##"
    ],
    "numOnly": [
-    "TAP",
-    "ACID",
-    "PET",
-    "VICE"
+    "URGE",
+    "AGE",
+    "GATE",
+    "EYE"
    ],
    "clues": {
-    "TIGER": "Striped big cat",
-    "VISA": "Travel permit",
-    "DIGIT": "Finger or number",
-    "DUB": "Give a nickname",
-    "USED": "Not new",
-    "BAR": "Pub counter"
+    "SUM": "Result of addition",
+    "SUITE": "Hotel rooms",
+    "MEN": "Adult males",
+    "CURE": "Remedy that heals",
+    "CLAY": "Potter's material",
+    "ALIGN": "Line up"
    },
    "meta": {
-    "unknown": 4,
-    "fillsWithoutTotals": 4,
+    "unknown": 3,
+    "fillsWithoutTotals": 6,
     "numberOnly": 4,
     "answers": 10,
     "level": 1,
@@ -39,25 +39,25 @@
    "level": 2,
    "size": 5,
    "grid": [
-    "##GAL",
-    "#TRUE",
-    "SWING",
-    "HINT#",
-    "END##"
+    "##GUM",
+    "#CURE",
+    "ALIGN",
+    "RUDE#",
+    "TEE##"
    ],
    "numOnly": [
-    "GAL",
-    "LEG",
-    "TWIN",
-    "SWING",
-    "HINT"
+    "GUM",
+    "URGE",
+    "ART",
+    "RUDE",
+    "TEE"
    ],
    "clues": {
-    "GRIND": "Crush into powder",
-    "AUNT": "Parent's sister",
-    "TRUE": "Not false",
-    "SHE": "That woman",
-    "END": "Finish"
+    "GUIDE": "Lead the way",
+    "MEN": "Adult males",
+    "CURE": "Remedy that heals",
+    "CLUE": "Hint",
+    "ALIGN": "Line up"
    },
    "meta": {
     "unknown": 4,
@@ -72,25 +72,25 @@
    "level": 3,
    "size": 5,
    "grid": [
-    "##HAT",
-    "#PURE",
-    "GAMMA",
-    "ALAS#",
-    "PEN##"
+    "#PAST",
+    "#ECHO",
+    "RATIO",
+    "ICON#",
+    "MERE#"
    ],
    "numOnly": [
-    "HAT",
-    "HUMAN",
-    "PURE",
-    "PALE",
-    "PEN"
+    "PAST",
+    "SHINE",
+    "TOO",
+    "RATIO",
+    "RIM"
    ],
    "clues": {
-    "ARMS": "Limbs with elbows",
-    "TEA": "Hot leaf drink",
-    "GAMMA": "Third Greek letter",
-    "GAP": "Opening between things",
-    "ALAS": "Expression of sorrow"
+    "PEACE": "Calm",
+    "ACTOR": "Person in a play",
+    "ECHO": "Repeated sound",
+    "ICON": "Small picture on a screen",
+    "MERE": "Nothing more than"
    },
    "meta": {
     "unknown": 5,
@@ -105,29 +105,29 @@
    "level": 4,
    "size": 5,
    "grid": [
-    "##APT",
-    "##PIE",
-    "PLANE",
-    "RARE#",
-    "OPT##"
+    "##CUP",
+    "#CONE",
+    "PLAIN",
+    "EAST#",
+    "ANT##"
    ],
    "numOnly": [
-    "PLANE",
-    "PRO",
-    "LAP",
-    "RARE",
-    "OPT"
+    "CUP",
+    "COAST",
+    "PEN",
+    "CONE",
+    "PLAIN"
    ],
    "clues": {
-    "APT": "Fitting",
-    "APART": "Separated",
-    "PINE": "Evergreen",
-    "TEE": "Golf peg",
-    "PIE": "Dessert with a crust"
+    "UNIT": "Single item",
+    "CLAN": "Family group",
+    "PEA": "Green vegetable in a pod",
+    "EAST": "Where the sun rises",
+    "ANT": "Picnic insect"
    },
    "meta": {
     "unknown": 6,
-    "fillsWithoutTotals": 4,
+    "fillsWithoutTotals": 5,
     "numberOnly": 5,
     "answers": 10,
     "level": 4,

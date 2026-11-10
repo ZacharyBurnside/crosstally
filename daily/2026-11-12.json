@@ -6,29 +6,29 @@
    "level": 1,
    "size": 5,
    "grid": [
-    "CAVE#",
-    "OWING",
-    "WASTE",
-    "#ITEM",
-    "#TAR#"
+    "##PRO",
+    "#PAID",
+    "RAISE",
+    "ACNE#",
+    "NET##"
    ],
    "numOnly": [
-    "CAVE",
-    "COW",
-    "GEM",
-    "WASTE"
+    "PRO",
+    "ODE",
+    "PAID",
+    "PACE"
    ],
    "clues": {
-    "AWAIT": "Wait for",
-    "VISTA": "Scenic view",
-    "ENTER": "Go in",
-    "OWING": "Still to be paid",
-    "ITEM": "Single thing",
-    "TAR": "Road material"
+    "PAINT": "Brush color",
+    "RISE": "Go up",
+    "RAISE": "Lift",
+    "RAN": "Jogged",
+    "ACNE": "Teen skin problem",
+    "NET": "Tennis court divider"
    },
    "meta": {
     "unknown": 3,
-    "fillsWithoutTotals": 16,
+    "fillsWithoutTotals": 4,
     "numberOnly": 4,
     "answers": 10,
     "level": 1,
@@ -39,25 +39,25 @@
    "level": 2,
    "size": 5,
    "grid": [
-    "##HUB",
-    "#CASE",
-    "HOPED",
-    "AMP##",
-    "MAY##"
+    "PAT##",
+    "ATOP#",
+    "LOTUS",
+    "#MARE",
+    "##LET"
    ],
    "numOnly": [
-    "HUB",
-    "HAPPY",
-    "BED",
-    "HAM",
-    "MAY"
+    "PAT",
+    "PAL",
+    "TOTAL",
+    "SET",
+    "LET"
    ],
    "clues": {
-    "USE": "Put to work",
-    "CASE": "Briefcase",
-    "COMA": "Deep unconsciousness",
-    "HOPED": "Wished for",
-    "AMP": "Guitar volume booster"
+    "ATOM": "Smallest unit of an element",
+    "ATOP": "On the summit of",
+    "PURE": "Unmixed",
+    "LOTUS": "Water lily",
+    "MARE": "Female horse"
    },
    "meta": {
     "unknown": 4,
@@ -72,25 +72,25 @@
    "level": 3,
    "size": 5,
    "grid": [
-    "##CAB",
-    "#POUR",
-    "ROUTE",
-    "ALLOW",
-    "NOD##"
+    "##HIT",
+    "SMASH",
+    "CABLE",
+    "ALIEN",
+    "NET##"
    ],
    "numOnly": [
-    "POUR",
-    "POLO",
-    "ROUTE",
-    "RAN",
-    "NOD"
+    "HIT",
+    "HABIT",
+    "THEN",
+    "ALIEN",
+    "NET"
    ],
    "clues": {
-    "CAB": "Taxi",
-    "COULD": "Was able to",
-    "AUTO": "Car, informally",
-    "BREW": "Make beer",
-    "ALLOW": "Permit"
+    "ISLE": "Small island",
+    "SMASH": "Break into pieces",
+    "SCAN": "Look over quickly",
+    "MALE": "Opposite of female",
+    "CABLE": "Thick wire"
    },
    "meta": {
     "unknown": 5,
@@ -105,29 +105,29 @@
    "level": 4,
    "size": 5,
    "grid": [
-    "##AWE",
-    "##DIG",
-    "WRONG",
-    "HIRE#",
-    "ODE##"
+    "##RAM",
+    "#GAME",
+    "AUDIT",
+    "GRAD#",
+    "OUR##"
    ],
    "numOnly": [
-    "WRONG",
-    "WHO",
-    "RID",
-    "HIRE",
-    "ODE"
+    "RAM",
+    "RADAR",
+    "AMID",
+    "MET",
+    "GAME"
    ],
    "clues": {
-    "AWE": "Wonder",
-    "ADORE": "Love deeply",
-    "WINE": "Grape drink",
-    "EGG": "Omelet ingredient",
-    "DIG": "Excavate"
+    "GURU": "Spiritual teacher",
+    "AUDIT": "Official financial check",
+    "AGO": "Earlier than now",
+    "GRAD": "Recent school finisher, informally",
+    "OUR": "Belonging to us"
    },
    "meta": {
     "unknown": 6,
-    "fillsWithoutTotals": 9,
+    "fillsWithoutTotals": 5,
     "numberOnly": 5,
     "answers": 10,
     "level": 4,

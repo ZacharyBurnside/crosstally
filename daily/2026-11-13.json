@@ -6,29 +6,29 @@
    "level": 1,
    "size": 5,
    "grid": [
-    "##BAG",
-    "SCORE",
-    "KARMA",
-    "INNER",
-    "NEED#"
+    "##BAT",
+    "#TOUR",
+    "IRONY",
+    "LIST#",
+    "LOT##"
    ],
    "numOnly": [
-    "BAG",
-    "GEAR",
-    "SKIN",
-    "INNER"
+    "TRIO",
+    "ILL",
+    "LIST",
+    "LOT"
    ],
    "clues": {
-    "BORNE": "Carried",
-    "ARMED": "Carrying weapons",
-    "SCORE": "Game tally",
-    "CANE": "Walking stick",
-    "KARMA": "What goes around comes around",
-    "NEED": "Require"
+    "BAT": "Nocturnal flier",
+    "BOOST": "Give a lift to",
+    "AUNT": "Parent's sister",
+    "TRY": "Attempt",
+    "TOUR": "Guided trip around a place",
+    "IRONY": "Saying the opposite of what's meant"
    },
    "meta": {
-    "unknown": 3,
-    "fillsWithoutTotals": 6,
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
     "numberOnly": 4,
     "answers": 10,
     "level": 1,
@@ -39,29 +39,29 @@
    "level": 2,
    "size": 5,
    "grid": [
-    "##BEG",
-    "#HEAR",
-    "FALSE",
-    "ALLEY",
-    "TOY##"
+    "##FIG",
+    "#MADE",
+    "GUILT",
+    "ACRE#",
+    "SHY##"
    ],
    "numOnly": [
-    "GREY",
-    "HEAR",
-    "FAT",
-    "ALLEY",
-    "TOY"
+    "FIG",
+    "FAIRY",
+    "GET",
+    "GAS",
+    "SHY"
    ],
    "clues": {
-    "BEG": "Plead",
-    "BELLY": "Stomach area",
-    "EASE": "Comfort",
-    "HALO": "Angel's ring of light",
-    "FALSE": "Not true"
+    "IDLE": "Not working",
+    "MADE": "Built",
+    "MUCH": "A great deal",
+    "GUILT": "Remorse for a wrong",
+    "ACRE": "Unit of land area"
    },
    "meta": {
     "unknown": 4,
-    "fillsWithoutTotals": 4,
+    "fillsWithoutTotals": 6,
     "numberOnly": 5,
     "answers": 10,
     "level": 2,
@@ -72,25 +72,25 @@
    "level": 3,
    "size": 5,
    "grid": [
-    "##MAT",
-    "#LOGO",
-    "FATAL",
-    "UNTIL",
-    "NEON#"
+    "GEM##",
+    "EVEN#",
+    "TIRED",
+    "#LIAR",
+    "##TRY"
    ],
    "numOnly": [
-    "MAT",
-    "AGAIN",
-    "TOLL",
-    "FUN",
-    "UNTIL"
+    "GEM",
+    "GET",
+    "MERIT",
+    "EVEN",
+    "NEAR"
    ],
    "clues": {
-    "MOTTO": "Guiding saying",
-    "LOGO": "Brand's emblem",
-    "LANE": "Narrow road",
-    "FATAL": "Causing death",
-    "NEON": "Glowing sign gas"
+    "EVIL": "Wicked",
+    "TIRED": "Sleepy",
+    "DRY": "Not wet",
+    "LIAR": "Fibber",
+    "TRY": "Attempt"
    },
    "meta": {
     "unknown": 5,
@@ -105,29 +105,29 @@
    "level": 4,
    "size": 5,
    "grid": [
-    "#PLEA",
-    "#REAR",
-    "ROAST",
-    "ENVY#",
-    "FEE##"
+    "ARC##",
+    "ROOM#",
+    "MOVIE",
+    "#FELL",
+    "##REF"
    ],
    "numOnly": [
-    "LEAVE",
-    "ROAST",
-    "REF",
-    "ENVY",
-    "FEE"
+    "ROOF",
+    "COVER",
+    "ROOM",
+    "MILE",
+    "FELL"
    ],
    "clues": {
-    "PLEA": "Earnest request",
-    "PRONE": "Lying face down",
-    "EASY": "Simple to do",
-    "ART": "Painting or sculpture",
-    "REAR": "Back"
+    "ARC": "Curved line",
+    "ARM": "Limb with an elbow",
+    "MOVIE": "Film",
+    "ELF": "Santa's helper",
+    "REF": "Game official, informally"
    },
    "meta": {
     "unknown": 6,
-    "fillsWithoutTotals": 6,
+    "fillsWithoutTotals": 4,
     "numberOnly": 5,
     "answers": 10,
     "level": 4,

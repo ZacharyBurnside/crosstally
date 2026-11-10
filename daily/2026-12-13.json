@@ -1,0 +1,138 @@
+{
+ "date": "2026-12-13",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##TAP",
+    "#VICE",
+    "DIGIT",
+    "USED#",
+    "BAR##"
+   ],
+   "numOnly": [
+    "TAP",
+    "ACID",
+    "PET",
+    "VICE"
+   ],
+   "clues": {
+    "TIGER": "Striped big cat",
+    "VISA": "Travel permit",
+    "DIGIT": "Finger or number",
+    "DUB": "Give a nickname",
+    "USED": "Not new",
+    "BAR": "Pub counter"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##GAL",
+    "#TRUE",
+    "SWING",
+    "HINT#",
+    "END##"
+   ],
+   "numOnly": [
+    "GAL",
+    "LEG",
+    "TWIN",
+    "SWING",
+    "HINT"
+   ],
+   "clues": {
+    "GRIND": "Crush into powder",
+    "AUNT": "Parent's sister",
+    "TRUE": "Not false",
+    "SHE": "That woman",
+    "END": "Finish"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##HAT",
+    "#PURE",
+    "GAMMA",
+    "ALAS#",
+    "PEN##"
+   ],
+   "numOnly": [
+    "HAT",
+    "HUMAN",
+    "PURE",
+    "PALE",
+    "PEN"
+   ],
+   "clues": {
+    "ARMS": "Limbs with elbows",
+    "TEA": "Hot leaf drink",
+    "GAMMA": "Third Greek letter",
+    "GAP": "Opening between things",
+    "ALAS": "Expression of sorrow"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##APT",
+    "##PIE",
+    "PLANE",
+    "RARE#",
+    "OPT##"
+   ],
+   "numOnly": [
+    "PLANE",
+    "PRO",
+    "LAP",
+    "RARE",
+    "OPT"
+   ],
+   "clues": {
+    "APT": "Fitting",
+    "APART": "Separated",
+    "PINE": "Evergreen",
+    "TEE": "Golf peg",
+    "PIE": "Dessert with a crust"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

@@ -1,34 +1,34 @@
 {
- "date": "2026-10-26",
+ "date": "2026-12-08",
  "version": 1,
  "puzzles": [
   {
    "level": 1,
    "size": 5,
    "grid": [
-    "ART##",
-    "COIL#",
-    "TODAY",
-    "#FAKE",
-    "##LET"
+    "#RAT#",
+    "SALE#",
+    "AGONY",
+    "DENSE",
+    "##GET"
    ],
    "numOnly": [
-    "ROOF",
-    "YET",
-    "FAKE",
-    "LET"
+    "RAT",
+    "RAGE",
+    "SALE",
+    "SAD"
    ],
    "clues": {
-    "ART": "Painting or sculpture",
-    "ACT": "Part of a play",
-    "TIDAL": "Of the ocean's rise and fall",
-    "COIL": "Spiral",
-    "LAKE": "Inland water",
-    "TODAY": "This day"
+    "ALONG": "Together with",
+    "TENSE": "Stressed or tight",
+    "AGONY": "Extreme pain",
+    "YET": "Up to now",
+    "DENSE": "Tightly packed",
+    "GET": "Obtain"
    },
    "meta": {
     "unknown": 3,
-    "fillsWithoutTotals": 6,
+    "fillsWithoutTotals": 16,
     "numberOnly": 4,
     "answers": 10,
     "level": 1,
@@ -39,18 +39,18 @@
    "level": 2,
    "size": 5,
    "grid": [
-    "LAW##",
+    "JAW##",
     "EXIT#",
     "TIDAL",
-    "#SOLO",
+    "#SOLE",
     "##WET"
    ],
    "numOnly": [
-    "LAW",
-    "LET",
+    "JAW",
+    "JET",
     "AXIS",
-    "LOT",
-    "SOLO"
+    "LET",
+    "SOLE"
    ],
    "clues": {
     "WIDOW": "Woman whose husband died",
@@ -72,25 +72,25 @@
    "level": 3,
    "size": 5,
    "grid": [
-    "ART##",
-    "COIL#",
-    "TODAY",
-    "#MAKE",
-    "##LET"
+    "##WEB",
+    "#DOVE",
+    "LIMIT",
+    "OVAL#",
+    "TEN##"
    ],
    "numOnly": [
-    "TIDAL",
-    "COIL",
-    "TODAY",
-    "YET",
-    "LET"
+    "DOVE",
+    "DIVE",
+    "LOT",
+    "OVAL",
+    "TEN"
    ],
    "clues": {
-    "ART": "Painting or sculpture",
-    "ACT": "Part of a play",
-    "ROOM": "Space in a house",
-    "LAKE": "Inland water",
-    "MAKE": "Create"
+    "WEB": "Spider's creation",
+    "WOMAN": "Adult female",
+    "EVIL": "Wicked",
+    "BET": "Wager",
+    "LIMIT": "Maximum"
    },
    "meta": {
     "unknown": 5,
@@ -105,29 +105,29 @@
    "level": 4,
    "size": 5,
    "grid": [
+    "##ARK",
     "##PIN",
-    "#FIRE",
-    "ALLOW",
-    "NEON#",
-    "YET##"
+    "LEASE",
+    "AGREE",
+    "POT##"
    ],
    "numOnly": [
-    "PIN",
-    "IRON",
-    "NEW",
-    "FIRE",
-    "ALLOW"
+    "APART",
+    "LEASE",
+    "LAP",
+    "AGREE",
+    "POT"
    ],
    "clues": {
-    "PILOT": "Plane flyer",
-    "FLEE": "Run away",
-    "ANY": "One or some",
-    "NEON": "Glowing sign gas",
-    "YET": "Up to now"
+    "ARK": "Noah's boat",
+    "RISE": "Go up",
+    "KNEE": "Leg joint",
+    "PIN": "Sewing fastener",
+    "EGO": "Sense of self-importance"
    },
    "meta": {
     "unknown": 6,
-    "fillsWithoutTotals": 10,
+    "fillsWithoutTotals": 7,
     "numberOnly": 5,
     "answers": 10,
     "level": 4,
