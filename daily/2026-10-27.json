@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-27",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "VOW##",
+    "ICE##",
+    "CEDAR",
+    "EAGLE",
+    "#NEED"
+   ],
+   "numOnly": [
+    "VOW",
+    "VICE",
+    "OCEAN",
+    "ICE"
+   ],
+   "clues": {
+    "WEDGE": "Triangular piece",
+    "CEDAR": "Fragrant wood for chests",
+    "ALE": "Pub brew",
+    "RED": "Color of a stop light",
+    "EAGLE": "Symbol bird of the US",
+    "NEED": "Require"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "#DEAF",
+    "#RAGE",
+    "NOTED",
+    "EVEN#",
+    "WENT#"
+   ],
+   "numOnly": [
+    "DEAF",
+    "FED",
+    "NOTED",
+    "NEW",
+    "WENT"
+   ],
+   "clues": {
+    "DROVE": "Operated a car",
+    "EATEN": "Consumed",
+    "AGENT": "Spy or representative",
+    "RAGE": "Fury",
+    "EVEN": "Not odd"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 7,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "PAR##",
+    "ADAPT",
+    "TUTOR",
+    "#LILY",
+    "#TOO#"
+   ],
+   "numOnly": [
+    "PAR",
+    "PAT",
+    "ADULT",
+    "ADAPT",
+    "TRY"
+   ],
+   "clues": {
+    "RATIO": "Proportion",
+    "POLO": "Sport played on horseback",
+    "TUTOR": "Private teacher",
+    "LILY": "Flower for Easter",
+    "TOO": "Also"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "BAD##",
+    "OPERA",
+    "SPLIT",
+    "SLATE",
+    "#EYE#"
+   ],
+   "numOnly": [
+    "BAD",
+    "BOSS",
+    "APPLE",
+    "DELAY",
+    "OPERA"
+   ],
+   "clues": {
+    "RITE": "Ceremony",
+    "ATE": "Had dinner",
+    "SPLIT": "Divide",
+    "SLATE": "Dark gray roofing stone",
+    "EYE": "Organ of sight"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

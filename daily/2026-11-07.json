@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-07",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##GEL",
+    "ARENA",
+    "CANDY",
+    "TIRE#",
+    "#LED#"
+   ],
+   "numOnly": [
+    "GEL",
+    "LAY",
+    "ACT",
+    "CANDY"
+   ],
+   "clues": {
+    "GENRE": "Category of art",
+    "ENDED": "Finished",
+    "ARENA": "Sports stadium",
+    "RAIL": "Train track",
+    "TIRE": "Wheel cover",
+    "LED": "Was in front"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##RAW",
+    "#MESH",
+    "NOISY",
+    "EDGE#",
+    "WENT#"
+   ],
+   "numOnly": [
+    "RAW",
+    "REIGN",
+    "WHY",
+    "NEW",
+    "WENT"
+   ],
+   "clues": {
+    "ASSET": "Valuable item owned",
+    "MESH": "Netlike fabric",
+    "MODE": "Style",
+    "NOISY": "Loud",
+    "EDGE": "Rim or border"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##MAP",
+    "#SODA",
+    "STUDY",
+    "EASE#",
+    "EYED#"
+   ],
+   "numOnly": [
+    "MAP",
+    "MOUSE",
+    "PAY",
+    "STUDY",
+    "SEE"
+   ],
+   "clues": {
+    "ADDED": "Put together",
+    "SODA": "Fizzy drink",
+    "STAY": "Remain",
+    "EASE": "Comfort",
+    "EYED": "Looked at"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##JOB",
+    "#COVE",
+    "TOKEN",
+    "ALERT",
+    "BAR##"
+   ],
+   "numOnly": [
+    "JOB",
+    "JOKER",
+    "OVER",
+    "BENT",
+    "COVE"
+   ],
+   "clues": {
+    "COLA": "Brown soft drink",
+    "TOKEN": "Arcade coin",
+    "TAB": "Bar bill",
+    "ALERT": "Watchful",
+    "BAR": "Pub counter"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 8,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

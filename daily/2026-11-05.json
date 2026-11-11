@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-05",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##SAW",
+    "#TALE",
+    "GUILT",
+    "INN##",
+    "NET##"
+   ],
+   "numOnly": [
+    "SAW",
+    "ALL",
+    "WET",
+    "GUILT"
+   ],
+   "clues": {
+    "SAINT": "Holy person",
+    "TALE": "Story",
+    "TUNE": "Melody",
+    "GIN": "Martini liquor",
+    "INN": "Small hotel",
+    "NET": "Tennis court divider"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 9,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##CAP",
+    "#SAGA",
+    "SOBER",
+    "AMID#",
+    "YEN##"
+   ],
+   "numOnly": [
+    "PAR",
+    "SAGA",
+    "SOBER",
+    "SAY",
+    "YEN"
+   ],
+   "clues": {
+    "CAP": "Baseball hat",
+    "CABIN": "Small woodland house",
+    "AGED": "Old",
+    "SOME": "A few",
+    "AMID": "In the middle of"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##DOG",
+    "##ERA",
+    "ATLAS",
+    "DEAL#",
+    "DAY##"
+   ],
+   "numOnly": [
+    "ORAL",
+    "ADD",
+    "TEA",
+    "DEAL",
+    "DAY"
+   ],
+   "clues": {
+    "DOG": "Barking pet",
+    "DELAY": "Make late",
+    "GAS": "Fuel for a car",
+    "ERA": "Period of history",
+    "ATLAS": "Book of maps"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 9,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##EGG",
+    "##LIE",
+    "OLIVE",
+    "RATE#",
+    "EDEN#"
+   ],
+   "numOnly": [
+    "GIVEN",
+    "OLIVE",
+    "ORE",
+    "LAD",
+    "RATE"
+   ],
+   "clues": {
+    "EGG": "Omelet ingredient",
+    "ELITE": "Top group",
+    "GEE": "Mild exclamation of surprise",
+    "LIE": "Untruth",
+    "EDEN": "Biblical garden"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

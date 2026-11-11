@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-31",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##GAG",
+    "#URGE",
+    "APART",
+    "ROPE#",
+    "KNEE#"
+   ],
+   "numOnly": [
+    "GAG",
+    "GET",
+    "URGE",
+    "UPON"
+   ],
+   "clues": {
+    "GRAPE": "Wine fruit",
+    "AGREE": "Share the same opinion",
+    "APART": "Separated",
+    "ARK": "Noah's boat",
+    "ROPE": "Thick cord",
+    "KNEE": "Leg joint"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "OWL##",
+    "FOOD#",
+    "FOCAL",
+    "#DATA",
+    "##LED"
+   ],
+   "numOnly": [
+    "WOOD",
+    "FOOD",
+    "DATE",
+    "LAD",
+    "LED"
+   ],
+   "clues": {
+    "OWL": "Hooting bird",
+    "OFF": "Not on",
+    "LOCAL": "Nearby",
+    "FOCAL": "Central",
+    "DATA": "Facts and figures"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 10,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "#SCAR",
+    "#LOGO",
+    "TIMED",
+    "ICE##",
+    "PET##"
+   ],
+   "numOnly": [
+    "SLICE",
+    "LOGO",
+    "TIP",
+    "ICE",
+    "PET"
+   ],
+   "clues": {
+    "SCAR": "Mark left after a wound heals",
+    "COMET": "Icy visitor with a tail",
+    "AGE": "Years lived",
+    "ROD": "Fishing pole",
+    "TIMED": "Measured with a clock"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 8,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##SEA",
+    "#STAY",
+    "SPARE",
+    "PIN##",
+    "AND##"
+   ],
+   "numOnly": [
+    "STAND",
+    "STAY",
+    "SPIN",
+    "SPARE",
+    "PIN"
+   ],
+   "clues": {
+    "SEA": "Large body of salt water",
+    "EAR": "Hearing organ",
+    "AYE": "Vote in favor",
+    "SPA": "Resort with massages",
+    "AND": "Plus, in words"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

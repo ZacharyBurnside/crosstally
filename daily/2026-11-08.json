@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-08",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##RUG",
+    "#TONE",
+    "TRAIT",
+    "RUST#",
+    "YET##"
+   ],
+   "numOnly": [
+    "RUG",
+    "ROAST",
+    "GET",
+    "TRAIT"
+   ],
+   "clues": {
+    "UNIT": "Single item",
+    "TONE": "Quality of a sound",
+    "TRUE": "Not false",
+    "TRY": "Attempt",
+    "RUST": "Orange corrosion on iron",
+    "YET": "Up to now"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##DOC",
+    "#PEAR",
+    "DIARY",
+    "ILL##",
+    "PET##"
+   ],
+   "numOnly": [
+    "DOC",
+    "CRY",
+    "DIARY",
+    "DIP",
+    "PET"
+   ],
+   "clues": {
+    "DEALT": "Passed out cards",
+    "OAR": "Rowboat paddle",
+    "PEAR": "Fruit with a stem",
+    "PILE": "Heap",
+    "ILL": "Sick"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "#HAM#",
+    "CORAL",
+    "UNITE",
+    "RESET",
+    "BYE##"
+   ],
+   "numOnly": [
+    "HAM",
+    "HONEY",
+    "MATE",
+    "LET",
+    "RESET"
+   ],
+   "clues": {
+    "ARISE": "Get up",
+    "CORAL": "Reef material",
+    "CURB": "Edge of the sidewalk",
+    "UNITE": "Join together",
+    "BYE": "Farewell"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##COT",
+    "#GONE",
+    "BRACE",
+    "RISEN",
+    "APT##"
+   ],
+   "numOnly": [
+    "COT",
+    "COAST",
+    "ONCE",
+    "TEEN",
+    "GONE"
+   ],
+   "clues": {
+    "GRIP": "Firm hold",
+    "BRACE": "Support",
+    "BRA": "Undergarment",
+    "RISEN": "Gone up",
+    "APT": "Fitting"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "date": "2026-10-30",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##CUP",
+    "#GATE",
+    "TASTE",
+    "ALTER",
+    "BEER#"
+   ],
+   "numOnly": [
+    "GATE",
+    "GALE",
+    "TAB",
+    "BEER"
+   ],
+   "clues": {
+    "CUP": "Coffee holder",
+    "CASTE": "Hereditary social class",
+    "UTTER": "Say aloud",
+    "PEER": "Equal, or look closely",
+    "TASTE": "Flavor",
+    "ALTER": "Change"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##ODD",
+    "#CURE",
+    "BATON",
+    "OVEN#",
+    "WERE#"
+   ],
+   "numOnly": [
+    "ODD",
+    "DRONE",
+    "DEN",
+    "CAVE",
+    "OVEN"
+   ],
+   "clues": {
+    "OUTER": "External",
+    "CURE": "Remedy that heals",
+    "BATON": "Conductor's stick",
+    "BOW": "Weapon for arrows",
+    "WERE": "Past tense of \"are\""
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "#STOP",
+    "#HIDE",
+    "LADEN",
+    "ERA##",
+    "GEL##"
+   ],
+   "numOnly": [
+    "SHARE",
+    "HIDE",
+    "LEG",
+    "ERA",
+    "GEL"
+   ],
+   "clues": {
+    "STOP": "Halt",
+    "TIDAL": "Of the ocean's rise and fall",
+    "ODE": "Poem of praise",
+    "PEN": "Writing tool",
+    "LADEN": "Heavily loaded"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 11,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "##WED",
+    "#LAVA",
+    "BASED",
+    "ACT##",
+    "GEE##"
+   ],
+   "numOnly": [
+    "WASTE",
+    "BASED",
+    "BAG",
+    "ACT",
+    "GEE"
+   ],
+   "clues": {
+    "WED": "Marry",
+    "EVE": "Night before a holiday",
+    "DAD": "Father, informally",
+    "LAVA": "Molten rock from a volcano",
+    "LACE": "Delicate openwork fabric"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

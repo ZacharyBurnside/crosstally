@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-02",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "PAD##",
+    "OWE##",
+    "PAPER",
+    "#YOGA",
+    "##TOW"
+   ],
+   "numOnly": [
+    "AWAY",
+    "RAW",
+    "YOGA",
+    "TOW"
+   ],
+   "clues": {
+    "PAD": "Notebook",
+    "POP": "Fizzy drink, informally",
+    "DEPOT": "Storage or train station",
+    "OWE": "Be in debt",
+    "PAPER": "Writing sheet",
+    "EGO": "Sense of self-importance"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##WHO",
+    "#SEEN",
+    "STALL",
+    "EARLY",
+    "TRY##"
+   ],
+   "numOnly": [
+    "HELL",
+    "SEEN",
+    "STAR",
+    "SET",
+    "TRY"
+   ],
+   "clues": {
+    "WHO": "Which person",
+    "WEARY": "Tired",
+    "ONLY": "Sole",
+    "STALL": "Market booth, or stop an engine",
+    "EARLY": "Ahead of time"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##LAW",
+    "#SOLO",
+    "RADIO",
+    "ANGEL",
+    "TEEN#"
+   ],
+   "numOnly": [
+    "LAW",
+    "LODGE",
+    "WOOL",
+    "ANGEL",
+    "TEEN"
+   ],
+   "clues": {
+    "ALIEN": "Visitor from space",
+    "SOLO": "Performed alone",
+    "SANE": "Of sound mind",
+    "RADIO": "Music box",
+    "RAT": "Rodent"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "#PLEA",
+    "#HEAR",
+    "ROAST",
+    "ENVY#",
+    "FEE##"
+   ],
+   "numOnly": [
+    "LEAVE",
+    "ROAST",
+    "REF",
+    "ENVY",
+    "FEE"
+   ],
+   "clues": {
+    "PLEA": "Earnest request",
+    "PHONE": "Device for calls",
+    "EASY": "Simple to do",
+    "ART": "Painting or sculpture",
+    "HEAR": "Listen"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

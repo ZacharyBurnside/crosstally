@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-03",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##CAB",
+    "#TRIO",
+    "FAIRY",
+    "AXE##",
+    "RID##"
+   ],
+   "numOnly": [
+    "CRIED",
+    "FAIRY",
+    "FAR",
+    "RID"
+   ],
+   "clues": {
+    "CAB": "Taxi",
+    "AIR": "What we breathe",
+    "BOY": "Young male",
+    "TRIO": "Group of three",
+    "TAXI": "Cab",
+    "AXE": "Wood chopper"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "##BAN",
+    "#HALO",
+    "WIRED",
+    "ADORE",
+    "RENT#"
+   ],
+   "numOnly": [
+    "BAN",
+    "ALERT",
+    "NODE",
+    "WAR",
+    "RENT"
+   ],
+   "clues": {
+    "BARON": "Noble rank below a count",
+    "HALO": "Angel's ring of light",
+    "HIDE": "Conceal",
+    "WIRED": "Connected with cables",
+    "ADORE": "Love deeply"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##MOB",
+    "#PONY",
+    "GOOSE",
+    "ELSE#",
+    "MEET#"
+   ],
+   "numOnly": [
+    "MOB",
+    "ONSET",
+    "BYE",
+    "PONY",
+    "MEET"
+   ],
+   "clues": {
+    "MOOSE": "Large antlered animal",
+    "POLE": "Long stick",
+    "GOOSE": "Honking bird",
+    "GEM": "Precious stone",
+    "ELSE": "Otherwise"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "LESS#",
+    "OATH#",
+    "TREAT",
+    "#NAME",
+    "##MEN"
+   ],
+   "numOnly": [
+    "EARN",
+    "SHAME",
+    "OATH",
+    "TREAT",
+    "NAME"
+   ],
+   "clues": {
+    "LESS": "Not as much",
+    "LOT": "Large amount",
+    "STEAM": "Kettle vapor",
+    "TEN": "Number of fingers",
+    "MEN": "Adult males"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

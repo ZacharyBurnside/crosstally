@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-01",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "SON##",
+    "AWAIT",
+    "VISTA",
+    "ENTER",
+    "#GYM#"
+   ],
+   "numOnly": [
+    "SON",
+    "SAVE",
+    "NASTY",
+    "ENTER"
+   ],
+   "clues": {
+    "OWING": "Still to be paid",
+    "AWAIT": "Wait for",
+    "ITEM": "Single thing",
+    "TAR": "Road material",
+    "VISTA": "Scenic view",
+    "GYM": "Workout place"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 8,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "WET##",
+    "IDOL#",
+    "TITAN",
+    "#TAKE",
+    "##LET"
+   ],
+   "numOnly": [
+    "WET",
+    "WIT",
+    "TOTAL",
+    "NET",
+    "LET"
+   ],
+   "clues": {
+    "EDIT": "Revise a text",
+    "IDOL": "Object of worship",
+    "LAKE": "Inland water",
+    "TITAN": "Giant",
+    "TAKE": "Grab"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 10,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##FAT",
+    "#BASH",
+    "ALIKE",
+    "RUN##",
+    "MET##"
+   ],
+   "numOnly": [
+    "FAT",
+    "FAINT",
+    "THE",
+    "BASH",
+    "RUN"
+   ],
+   "clues": {
+    "ASK": "Pose a question",
+    "BLUE": "Color of the sky",
+    "ALIKE": "Similar",
+    "ARM": "Limb with an elbow",
+    "MET": "Got together with"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 8,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "#PART",
+    "#AREA",
+    "HUMAN",
+    "USER#",
+    "BED##"
+   ],
+   "numOnly": [
+    "PART",
+    "PAUSE",
+    "REAR",
+    "TAN",
+    "HUMAN"
+   ],
+   "clues": {
+    "ARMED": "Carrying weapons",
+    "AREA": "Length times width",
+    "HUB": "Center of activity",
+    "USER": "App customer",
+    "BED": "Place to sleep"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

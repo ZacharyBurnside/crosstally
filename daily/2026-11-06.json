@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-06",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "TIP##",
+    "WORN#",
+    "ONION",
+    "##DUO",
+    "##END"
+   ],
+   "numOnly": [
+    "TIP",
+    "TWO",
+    "ION",
+    "WORN"
+   ],
+   "clues": {
+    "PRIDE": "Group of lions",
+    "NOUN": "Person, place or thing",
+    "ONION": "Layered vegetable that makes eyes water",
+    "NOD": "Show agreement with the head",
+    "DUO": "Pair of performers",
+    "END": "Finish"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "BIT##",
+    "ACID#",
+    "DEMON",
+    "##EMU",
+    "##SET"
+   ],
+   "numOnly": [
+    "BIT",
+    "BAD",
+    "DEMON",
+    "NUT",
+    "SET"
+   ],
+   "clues": {
+    "ICE": "Frozen water",
+    "TIMES": "Multiplication word",
+    "ACID": "Sour chemical",
+    "DOME": "Rounded roof",
+    "EMU": "Flightless Australian bird"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "HOW##",
+    "EPIC#",
+    "MEDAL",
+    "#NOVA",
+    "##WEB"
+   ],
+   "numOnly": [
+    "EPIC",
+    "CAVE",
+    "LAB",
+    "NOVA",
+    "WEB"
+   ],
+   "clues": {
+    "HOW": "In what way",
+    "HEM": "Edge of a skirt",
+    "OPEN": "Not closed",
+    "WIDOW": "Woman whose husband died",
+    "MEDAL": "Olympic award"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 6,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "#CRAB",
+    "#LINE",
+    "LODGE",
+    "ANGER",
+    "PEEL#"
+   ],
+   "numOnly": [
+    "RIDGE",
+    "ANGEL",
+    "LODGE",
+    "LAP",
+    "PEEL"
+   ],
+   "clues": {
+    "CRAB": "Sideways walker of the beach",
+    "CLONE": "Genetic copy",
+    "BEER": "Pub drink",
+    "LINE": "Queue",
+    "ANGER": "Strong displeasure"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}

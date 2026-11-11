@@ -1,0 +1,138 @@
+{
+ "date": "2026-11-04",
+ "version": 1,
+ "puzzles": [
+  {
+   "level": 1,
+   "size": 5,
+   "grid": [
+    "##SAP",
+    "#FACE",
+    "BLUNT",
+    "RACE#",
+    "AWE##"
+   ],
+   "numOnly": [
+    "SAP",
+    "PET",
+    "BLUNT",
+    "BRA"
+   ],
+   "clues": {
+    "SAUCE": "Topping for pasta",
+    "ACNE": "Teen skin problem",
+    "FACE": "Front of the head",
+    "FLAW": "Defect",
+    "RACE": "Marathon",
+    "AWE": "Wonder"
+   },
+   "meta": {
+    "unknown": 3,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 4,
+    "answers": 10,
+    "level": 1,
+    "difficulty": "Easy"
+   }
+  },
+  {
+   "level": 2,
+   "size": 5,
+   "grid": [
+    "#MAT#",
+    "HOLE#",
+    "IRONY",
+    "DENSE",
+    "##GET"
+   ],
+   "numOnly": [
+    "HOLE",
+    "HID",
+    "YET",
+    "DENSE",
+    "GET"
+   ],
+   "clues": {
+    "MAT": "Welcome item at a door",
+    "MORE": "Additional",
+    "ALONG": "Together with",
+    "TENSE": "Stressed or tight",
+    "IRONY": "Saying the opposite of what's meant"
+   },
+   "meta": {
+    "unknown": 4,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 2,
+    "difficulty": "Medium"
+   }
+  },
+  {
+   "level": 3,
+   "size": 5,
+   "grid": [
+    "##SAT",
+    "##PRO",
+    "PRICE",
+    "EACH#",
+    "ANY##"
+   ],
+   "numOnly": [
+    "SPICY",
+    "PRO",
+    "RAN",
+    "EACH",
+    "ANY"
+   ],
+   "clues": {
+    "SAT": "Took a chair",
+    "ARCH": "Curved structure over a doorway",
+    "TOE": "Foot digit",
+    "PRICE": "Cost",
+    "PEA": "Green vegetable in a pod"
+   },
+   "meta": {
+    "unknown": 5,
+    "fillsWithoutTotals": 5,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 3,
+    "difficulty": "Hard"
+   }
+  },
+  {
+   "level": 4,
+   "size": 5,
+   "grid": [
+    "RIP##",
+    "USE##",
+    "BLAST",
+    "#ECHO",
+    "##HEN"
+   ],
+   "numOnly": [
+    "RIP",
+    "RUB",
+    "ISLE",
+    "PEACH",
+    "USE"
+   ],
+   "clues": {
+    "BLAST": "Explosion",
+    "SHE": "That woman",
+    "TON": "2,000 pounds",
+    "ECHO": "Repeated sound",
+    "HEN": "Egg layer"
+   },
+   "meta": {
+    "unknown": 6,
+    "fillsWithoutTotals": 4,
+    "numberOnly": 5,
+    "answers": 10,
+    "level": 4,
+    "difficulty": "Expert"
+   }
+  }
+ ]
+}
